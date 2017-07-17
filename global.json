@@ -1,0 +1,9 @@
+{
+    "projects": [
+        "identity",
+        "api"
+    ],
+    "sdk": {
+        "version": "1.0.4"
+    }
+}
